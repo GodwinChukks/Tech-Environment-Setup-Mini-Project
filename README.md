@@ -4,11 +4,11 @@
 
 ## This mini project provide a detailed screenshot of essential software tools used in setting up Tech Environment for the DevOps course. The software tools includes:
 
-+ Oracle Virtual Box**
++ Oracle Virtual Box
 + Ubuntu LTS
-+ Virtual Studio Code
++ Visual Studio Code
 + Github Account
-+ AWS Acoount
++ AWS Account
 
 ## SOFTWARE TOOLS DESCRIPTION AND ENVIRONMENT SCREENSHOTS 
 
@@ -65,7 +65,7 @@
 
 ### Github is a cloud base version control platform for managing and sharing code using GIT. It allows collaboration, tracking changes, and hosting open-source and private repositories. 
 
->## KEY FEATURES: 
+## KEY FEATURES: 
 
 + Git version control and collaboration
 + Pull request and issue tracking
