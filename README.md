@@ -45,6 +45,14 @@
 ![Ubuntu Screenshot](Image-Files/Ubuntu.PNG)
 
 
+![Ubuntu Screenshot](new-images/UBUNTU-IMAGE.PNG)
+
+
+![Ubuntu Screenshot](new-images/UBUNTU-IMAGE-2.PNG)
+
+
+
+
 ## VISUAL STUDIO CODE
 
 ### Visual studio code is a free lightweight, and powerful code editor developed by Microsoft. It supports multiple programming languages, extensions, and debugging tools. making it a popular choice for developers.
@@ -60,6 +68,8 @@
 
 ![VS CODE Screenshot](Image-Files/VS-Code.PNG)
 
+
+![VS-CODE Screenshot](new-images/VS-CODE-IMAGE.PNG)
 
 ## GITHUB
 
@@ -90,7 +100,10 @@
 
 ## AMAZON WEB SERVICE ACCOUNT SCREENSHOT
 
-![AWS Account Screenshot]()
+![AWS Account Screenshot](new-images/AWS-IMAGE.PNG)
+
+
+![AWS Account Screenshot](new-images/AWS-IMAGE-2.PNG)
 
 
 
